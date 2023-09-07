@@ -1,1 +1,1 @@
-# Stopped at: 2.8, page 84 (grouped expressions)
+# Stopped at: Chapter 3, page 103 (evaluations)
